@@ -24,10 +24,15 @@
 </style>
 </head>
 <body>
-<h1>Book reviews of</h1>
-<h2>Rolfs Ozols, Indriķis Lapiņš, Gustavs Laizāns, Aleksandrs Ļugašovs</h2>
-<p>Murder mystery for Christmas
-</p>
+    <div>
+        
+        
+        <h1>Book reviews of</h1>
+        <p>Rolfs Ozols, Indriķis Lapiņš, Gustavs Laizāns, Aleksandrs Ļugašovs</p>
+        <p>Murder mystery for Christmas
+        </p></div>
+
+        
 <img src="https://m.media-amazon.com/images/I/61h4w8GBFPL.jpg">
 
 
@@ -40,3 +45,4 @@
 
 </body>
 </html>
+
